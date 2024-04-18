@@ -1,3 +1,3 @@
-# Mini komunikator tekstowy
+# Mini text communicator
 
-Projekt używający sockety w Javie w celu komunikacji tekstowej za pomocą protokołów TCP oraz UDP stworzony na potrzeby kursu Systemy rozproszone AGH w roku 2024.
+A project using sockets in Java for text communication using TCP and UDP protocols, created for the AGH UST Distributed Systems course in 2024.
